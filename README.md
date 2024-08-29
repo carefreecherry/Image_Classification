@@ -17,7 +17,7 @@ git clone https://github.com/your-username/MNIST-CNN-Classifier.git
 
 Navigate to the project directory:
 
-cd Fashion-CNN-Classifier
+cd MNIST-CNN-Classifier
 
 # Usage
 
